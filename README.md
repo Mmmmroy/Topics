@@ -30,6 +30,8 @@ Including:
    - model 1 results , people need to import to model 2 manually.
 
  ## Code illustration
+ For model 1, we upload the lastest version: Model1_code/model1.ipynb
+ 
  For model 2, we re-ran the model and adjusted the parameters, the results are both uploaded (named as detailed value).
 
 1. **model2_V5.ipynb** is the original model.
