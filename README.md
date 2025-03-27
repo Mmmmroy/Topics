@@ -28,3 +28,13 @@ Including:
    - realdata_v5_2_new.xlsx (compulsory and optional modules)
 2. processed_schedule.csv
    - model 1 results , people need to import to model 2 manually.
+
+ ## Code illustration
+ For model 2, we re-ran the model and adjusted the parameters, the results are both uploaded (named as detailed value).
+
+1. **model2_V5.ipynb** is the original model.
+2. **model2_imp_Capacity.ipynb** is the model only improved with capacity constraints.
+3. **model2_imp_Virtual_classrooms.ipynb** is the model only improved with virtual classrooms.
+4. **model2_imp_Capacity_Virtual.ipynb**  is the model combined with all aspects of optimal methods.
+5. **model2_imp_problem_slover.ipynb** is the model test to find the optimal parameters.
+6. **model2_analysis_plot.ipynb** is the analysis of the classroom usage by different kinds of figures.
